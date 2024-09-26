@@ -1,7 +1,8 @@
 <details>
 
 <summary>RU</summary>
-# Activity Watcher (Only Windows)
+
+## Activity Watcher (Only Windows)
 Этот проект - пример использования node модуля основанного на логике C++ кода.
 По сути это дополнение написанное С++ для использования в node js.
 
